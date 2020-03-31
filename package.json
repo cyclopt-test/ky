@@ -47,7 +47,7 @@
 	],
 	"devDependencies": {
 		"abort-controller": "^3.0.0",
-		"ava": "^1.4.1",
+		"ava": "^3.5.2",
 		"body": "^5.1.0",
 		"codecov": "^3.4.0",
 		"create-test-server": "2.1.1",
